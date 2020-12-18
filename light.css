@@ -1,0 +1,19 @@
+.tab button:hover {
+  color: #f1f1f1;
+}
+.tab button.active{
+  color: #f1f1f1;
+}
+  a:hover
+  {
+	color:white;  
+  }
+  a:active
+  {
+	color:grey;  
+  }
+  body
+  {
+	background-color:white;
+    color:black;	
+  }
