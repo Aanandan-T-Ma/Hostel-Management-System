@@ -1,8 +1,8 @@
 # Hostel-Management-System
 A website which facilitates students to request hostel rooms based on their needs and allows staff to allot/reject rooms to students according to their selections.
 
-# Database
+## Database
 Import the Schema from the hostel.sql file to create the tables used in the project and enter data as required.
 
-# Software Required
+## Software Required
 Xampp Control panel [for PHP], MySQL [Database]
